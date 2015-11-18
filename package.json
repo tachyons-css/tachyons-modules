@@ -1,0 +1,28 @@
+{
+  "name": "tachyons-modules",
+  "description": "Get a list of all Tachyons CSS modules.",
+  "author": "John Otander",
+  "version": "0.1.0",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": "tachyons-css/tachyons-modules",
+  "keywords": [
+    "tachyons",
+    "modules",
+    "list"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "github-repositories": "^2.1.2",
+    "is-present": "^1.0.0",
+    "pinkie-promise": "^2.0.0"
+  },
+  "devDependencies": {
+    "ava": "*"
+  }
+}

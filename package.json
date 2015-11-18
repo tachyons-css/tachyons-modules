@@ -2,7 +2,7 @@
   "name": "tachyons-modules",
   "description": "Get a list of all Tachyons CSS modules.",
   "author": "John Otander",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "main": "index.js",
   "files": [
     "index.js"

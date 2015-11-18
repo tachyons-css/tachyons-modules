@@ -13,7 +13,9 @@ npm install --save tachyons-modules
 ```javascript
 var tachyonsModules = require('tachyons-modules')
 
-tachyonsModules()  // => true
+tachyonsModules().then(cssModules => {
+  console.log(cssModules)
+})
 ```
 
 ## License

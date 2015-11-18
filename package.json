@@ -23,6 +23,7 @@
     "pinkie-promise": "^2.0.0"
   },
   "devDependencies": {
-    "ava": "*"
+    "ava": "*",
+    "is-promise": "^2.1.0"
   }
 }

@@ -11,7 +11,8 @@ var reposToIgnore = [
   'tachyons-css.github.io',
   'tachyons-sass',
   'tachyons-skins',
-  'tachyons-styles'
+  'tachyons-styles',
+  'tachyons-queries'
 ]
 
 module.exports = function tachyonsModules () {

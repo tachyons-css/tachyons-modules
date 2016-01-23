@@ -7,7 +7,11 @@ var Promise = require('pinkie-promise')
 var reposToIgnore = [
   'tachyons',
   'tachyons-cli',
-  'tachyons-modules'
+  'tachyons-modules',
+  'tachyons-css.github.io',
+  'tachyons-sass',
+  'tachyons-skins',
+  'tachyons-styles'
 ]
 
 module.exports = function tachyonsModules () {

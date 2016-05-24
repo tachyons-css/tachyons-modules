@@ -7,6 +7,8 @@ var Promise = require('pinkie-promise')
 var reposToIgnore = [
   'tachyons',
   'tachyons-cli',
+  'tachyons-docs',
+  'tachyons-cms',
   'tachyons-modules',
   'tachyons-css.github.io',
   'tachyons-sass',

@@ -14,6 +14,7 @@ var reposToIgnore = [
   'tachyons-sass',
   'tachyons-styles',
   'tachyons-queries',
+  'tachyons-z-index',
   'tachyons-webpack'
 ]
 

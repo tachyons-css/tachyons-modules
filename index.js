@@ -15,7 +15,8 @@ var reposToIgnore = [
   'tachyons-styles',
   'tachyons-queries',
   'tachyons-webpack',
-  'tachyons-build-css'
+  'tachyons-build-css',
+  'tachyons-display-verbose'
 ]
 
 module.exports = function tachyonsModules () {

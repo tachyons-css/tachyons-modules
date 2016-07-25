@@ -17,7 +17,8 @@ var reposToIgnore = [
   'tachyons-webpack',
   'tachyons-build-css',
   'tachyons-display-verbose',
-  'tachyons-verbose'
+  'tachyons-verbose',
+  'react-native-style-tachyons'
 ]
 
 module.exports = function tachyonsModules () {
